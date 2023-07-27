@@ -1,0 +1,22 @@
+{
+  "name": "breaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejau/breaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejau/breaker/issues"
+  },
+  "homepage": "https://github.com/Tejau/breaker#readme",
+  "dependencies": {
+    "webtorrent": "~2.0.15"
+  }
+}
