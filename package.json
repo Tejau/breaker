@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Tejau/breaker#readme",
   "dependencies": {
-    "webtorrent": "~2.0.15"
+    "webtorrent": "~2.0.37"
   }
 }
